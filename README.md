@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 TaskEase is designed to provide a clean, intuitive interface for managing tasks efficiently. Its straightforward functionalities aim to enhance productivity by simplifying task organization and management. TaskEase is designed to provide a clean, intuitive interface for managing tasks efficiently. Its straightforward functionalities aim to enhance productivity by simplifying task organization and management.
 
-Key Features:
+## Key Features:
 
 Add Tasks: Seamlessly add new tasks or to-dos with a simple input interface. <br>
 Delete Tasks: Easily remove completed or unwanted tasks from the list. <br>
