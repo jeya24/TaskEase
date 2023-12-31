@@ -10,7 +10,7 @@ TaskEase is designed to provide a clean, intuitive interface for managing tasks 
 
 Key Features:
 
-Add Tasks: Seamlessly add new tasks or to-dos with a simple input interface.
+Add Tasks: Seamlessly add new tasks or to-dos with a simple input interface. <br>
 Delete Tasks: Easily remove completed or unwanted tasks from the list.
 Search Functionality: Quickly find specific tasks using the search feature.
 Mark as Done: Check off tasks as completed with a tap, visually indicating their status change.
