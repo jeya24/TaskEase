@@ -1,4 +1,4 @@
-# todo_list
+# TaskEase
 
 A new Flutter project.
 
@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+TaskEase is designed to provide a clean, intuitive interface for managing tasks efficiently. Its straightforward functionalities aim to enhance productivity by simplifying task organization and management. TaskEase is designed to provide a clean, intuitive interface for managing tasks efficiently. Its straightforward functionalities aim to enhance productivity by simplifying task organization and management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Key Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add Tasks: Seamlessly add new tasks or to-dos with a simple input interface.
+Delete Tasks: Easily remove completed or unwanted tasks from the list.
+Search Functionality: Quickly find specific tasks using the search feature.
+Mark as Done: Check off tasks as completed with a tap, visually indicating their status change.
+Strike-Through Display: Completed tasks are visually distinguished with strike-through formatting for easy identification.
